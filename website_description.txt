@@ -1,0 +1,21 @@
+Font: Bold and Loud.
+CSS: 
+font-family: 'Fira Sans', sans-serif;
+
+To embed a font, copy the code into the <head> of your html:
+<link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300&display=swap" rel="stylesheet"> 
+
+Background Color: Olive / white
+
+Website is about providing first hand feedback on Hiking Trails.
+
+Info to present on my first website:
+Hiking to the Top of Silver Mountain via Firebreak Trail
+
+Distance: 5.3mi
+Elevation Gain: 2,280 feet.
+Route Type: Out & Back
+
+So you want to hike to the top of one of San Gabriel Mountains "Premier" points? You are going to want to read this before you decide to head there and climb this mountain. Silver Mountain via Firebreak Trail appears nice at first with decent trail space and an actual trail, but at a certain point the trail just turns into forest and unkept paths. 
+
+You will need to ensure you wear long pants and long socks to tuck your pants into, because this trail is overgrown and teeming with Ticks and bugs.
